@@ -1,7 +1,9 @@
 (ns encoding-visualiser.core
-  (:gen-class))
+  (:require [encoding-visualiser.graphics :as grph]
+            [encoding-visualiser.convert :as convert]))
+
 
 (defn -main
   "I don't do a whole lot ... yet."
   [& args]
-  (println "Hello, World!"))
+  (println ":3"))

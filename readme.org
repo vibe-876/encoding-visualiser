@@ -1,2 +1,7 @@
 #+title: Encoding Visualiser
 #+author: Camilla A.
+
+
+This *shouldn't* be used as a actual tool, it's meant for learning.
+
+Licensed under GPLv3.
